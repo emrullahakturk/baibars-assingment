@@ -1,6 +1,10 @@
 
 Bu proje, bir insansız hava aracından (UAV) gelen uçuş verilerini sahte (mock) veri kullanarak Android cihazda izlemeye yönelik bir yer kontrol istasyonu simülasyonudur.
 
+<p align="center">
+  <img src="recording.gif" alt="App Demo" width="300"/>
+</p>
+
 ## 📱 Uygulama Özellikleri
 
 - Gerçek bağlantı gerektirmeden **sahte veri akışı** ile çalışır.
